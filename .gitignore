@@ -1,4 +1,5 @@
 .idea/
+plots/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -23,8 +24,8 @@ sdist/
 var/
 wheels/
 *.egg-info/
-.installed.cfg
 *.egg
+.installed.cfg
 MANIFEST
 
 # PyInstaller
